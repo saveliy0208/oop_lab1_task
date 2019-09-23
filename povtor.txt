@@ -1,2 +1,2 @@
-Using namespace std
-if lalala then tratata
+trali vali 
+sapogi sandali
